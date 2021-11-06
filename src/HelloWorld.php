@@ -1,9 +1,9 @@
 <?php
 namespace App;
 
-class SayHello
+class HelloWorld
 {
-    public static function world()
+    public static function world(): string
     {
         return 'Hello World, Composer!';
     }
