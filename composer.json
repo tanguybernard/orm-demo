@@ -1,0 +1,19 @@
+{
+    "name": "tanguybernard/orm-demo-php",
+    "description": "Composer Project",
+    "authors": [
+        {
+            "name": "Tanguy BERNARD"
+        }
+    ],
+    "type": "library",
+    "require": {
+        "php": ">=8.0"
+    },
+    "minimum-stability": "dev",
+    "autoload": {
+        "psr-0": {
+            "App": "src/"
+        }
+    }
+}
