@@ -1,7 +1,7 @@
 <?php
 namespace App;
 
-class HelloWorld
+class Test
 {
     public static function world(): string
     {
